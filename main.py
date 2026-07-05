@@ -22,7 +22,7 @@ from prometheus_client import Counter, generate_latest, CONTENT_TYPE_LATEST
 # ---------------------------------------------------------------------------
 # CHANGE THIS to your own email before you deploy!
 # ---------------------------------------------------------------------------
-YOUR_EMAIL = "24f2006358@ds.study.iitm.ac.in."
+YOUR_EMAIL = "24f2006358@ds.study.iitm.ac.in"
 
 app = FastAPI()
 
