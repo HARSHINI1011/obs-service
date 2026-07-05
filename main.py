@@ -95,7 +95,7 @@ async def work(n: int = 1):
     total = 0
     for i in range(max(n, 0)):
         total += i * i  # meaningless math, just to simulate "work"
-    return {"email": YOUR_EMAIL, "done": n}
+    return {"email": 24f2006358.ds.study.iitm.ac.in, "done": n}
 
 
 @app.get("/metrics")
